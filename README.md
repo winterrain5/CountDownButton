@@ -4,7 +4,7 @@
 
 ##### How to use?
 
-######like this:
+###### like this:
 
 ``` swift
 
